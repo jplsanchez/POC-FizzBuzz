@@ -42,7 +42,7 @@ namespace FizzBuzz
                 }
                 if (i % 5 == 0)
                 {
-                    Print("Fizz");
+                    Print("Buzz");
                     continue;
                 }
                 if (i % 3 == 0 && i % 5 == 0)
